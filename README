@@ -1,4 +1,11 @@
 it's sample of file
 edited on website here
 
+<<<<<<< HEAD
 edited on other branch here (NEW FEATURE)
+=======
+this is new line on new branch here 
+
+>>>>>>> new-branch
+
+new line on 'try' branch
