@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sa,lsao kpks ad smdlks dm o's d'oks'o dk oskdsk:
+=======
+now i ediitng this file on branch new-features 
+
+
+>>>>>>> new-feature
